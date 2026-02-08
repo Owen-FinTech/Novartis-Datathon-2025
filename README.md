@@ -58,6 +58,10 @@ The challenge uses **2,293 country-brand combinations** that experienced generic
    - `biological`: Whether drug is derived from a living organism
    - `small_molecule`: Whether drug is a low molecular weight compound (typically synthesized chemically)
 
+### Note on Data Files in Repository
+
+**Data Privacy Compliance**: In accordance with the datathon organizers' requirements, all CSV files in this repository contain only column headers with no actual data rows. This preserves the data structure and allows the code to be shared publicly while protecting the proprietary datasets provided by Novartis. The original datasets remain confidential and are not included in version control.
+
 ## Evaluation Metrics
 
 All metrics are **normalized by the average monthly volume of the last 12 months before generic entry** to account for brand magnitude.
