@@ -100,7 +100,7 @@ The weighted sum of averages across the 2 buckets, where **Bucket 1 (high erosio
 
 ## Key Notes
 
-- Volume may be reported in different units (milligrams, packs, pills, etc.) depending on country-brand combination
+- Volume may be reported in different units (milligrams, packs, pills, etc) depending on country-brand combination
 - Categorical variables can be assumed to remain constant over time
 - All provided data may be used for model training
 - Explainability and simplicity of results will be valued
